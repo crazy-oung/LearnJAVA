@@ -26,7 +26,7 @@ public class CollectionTest {
 	    //리스트에 추가 : list는 singer2의 주소를 가진다.
 	    list.add(singer2);
 	    
-	    // 자바의 iterator() 메소드: ResultSet rs, rs.next()와 같은 기능을 가진 메소드.
+	    // 자바의 iterator() 메소드: ResultSet rs, rs.next()와 같은 기능을 가진 메소드. **순서가 없는 배열을 순서가 있는 배열처럼 사용 할 수 있게 해준다!
 	    Iterator i = list.iterator();
 	    // 순서대로 i를 Singer타입으로 변환 후 출력
 	    while(i.hasNext()) {	// i 즉 list에 값이 있으면 실행.	    	
