@@ -2,8 +2,9 @@ package codeReview;
 
 // 변수 타입 예제 
 public class ReferenceTest {
+	
     public static void main(String[] args) {
-    	
+    	//객체 생성
         ReferenceTest t = new ReferenceTest();
         
         int a = 20;        

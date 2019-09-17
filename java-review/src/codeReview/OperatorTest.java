@@ -29,7 +29,7 @@ public class OperatorTest {
             result = x;
             temp = true;
         }        
-        return temp; 	// result는 10이기 때문에 temp가 true로 리턴됨        
+        return temp; 	// result는 10이기 때문에 temp가 true로 리턴됨 
     }
     
     // 첫 피연산자가 참일 때 실행되는 참 거짓을 판별 하는 메소드2: 참일 때만 실행되므로 x는 0보다 작지 않는다. 곱을 해서 값을 저장한다.(0이 저장되지 않게 된다는 말이다)
