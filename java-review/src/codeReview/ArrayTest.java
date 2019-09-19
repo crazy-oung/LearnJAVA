@@ -26,7 +26,7 @@ public interface ArrayTest {
 		try {
 			// 출력
 			for (int out = 0; out < ar.length; out++) {
-				for (int in = 0; in < ar[out].length; in++) {
+				for (int in = 0; in < ar.length; in++) {
 					System.out.println(ar[out][in]); 
 				}
 			}
