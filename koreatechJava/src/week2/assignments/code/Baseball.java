@@ -7,7 +7,7 @@ import java.util.*;
 /*
 ============================================================================
 Name        : Baseball.java
-Author      : 컴퓨터공학부 2019136156 한다영 
+Author      : Dayoung Han
 Version     : 한국기술교육대학교 컴퓨터공학부 자바프로그래밍
 Copyright   : 2021년도 2학기 과제1
 Description : 숫자 야구 게임
